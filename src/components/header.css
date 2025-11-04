@@ -1,0 +1,15 @@
+nav {
+    background-color: #fd810d;
+}
+.navbar-brand {
+  font-weight: bold;
+  letter-spacing: 1px;
+}
+
+.nav-link {
+  transition: color 0.2s ease-in-out;
+}
+
+.nav-link:hover {
+  color: #472709 !important; /* สีฟ้า Bootstrap */
+}
