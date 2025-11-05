@@ -51,14 +51,14 @@ const App = () => {
       price: "$3.00"
     },
     {
-      image: "123",
-      name: "Classic Americano",
+      image: "manow.jpg",
+      name: "Lemon",
       description: "refreshing tea mixed with lemon juice, served hot or iced.",
       price: "$3.00"
     },
     {
-      image: "7",
-      name: "Classic Americano",
+      image: "coka.jpg",
+      name: "Coke",
       description: "fizzy, sweet soft drink with a unique cola flavor, served cold.",
       price: "$3.00"
     }
