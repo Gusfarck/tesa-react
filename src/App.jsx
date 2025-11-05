@@ -51,15 +51,15 @@ const App = () => {
       price: "$3.00"
     },
     {
-      image: "plan-americano.jpg",
+      image: "123",
       name: "Classic Americano",
-      description: "Espresso diluted with hot water, a strong and flavorful coffee.",
+      description: "refreshing tea mixed with lemon juice, served hot or iced.",
       price: "$3.00"
     },
     {
-      image: "plan-americano.jpg",
+      image: "7",
       name: "Classic Americano",
-      description: "Espresso diluted with hot water, a strong and flavorful coffee.",
+      description: "fizzy, sweet soft drink with a unique cola flavor, served cold.",
       price: "$3.00"
     }
   ];
